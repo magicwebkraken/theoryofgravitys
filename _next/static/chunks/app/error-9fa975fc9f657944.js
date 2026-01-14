@@ -106,7 +106,7 @@
                     className: "flex flex-col gap-2",
                     children: [
                       (0, s.jsx)(j, {
-                        href: "https://etherscan.io/token/0xc6BC67BE5459632D9C9957865aF90EAa31E2Df30",
+                        href: "https://etherscan.io/token/0xcomingsoon",
                         text: "Token",
                         className: l().className,
                       }),
@@ -116,12 +116,12 @@
                         className: l().className,
                       }),
                       (0, s.jsx)(j, {
-                        href: "https://t.me/theory_of_gravity",
+                        href: "https://t.me/thogroom",
                         text: "TLGRM",
                         className: l().className,
                       }),
                       (0, s.jsx)(j, {
-                        href: "https://x.com/thog_on_eth",
+                        href: "https://x.com/thogmeme",
                         text: "X",
                         className: l().className,
                       }),
@@ -233,7 +233,7 @@
                     ],
                   }),
                   (0, s.jsx)(j, {
-                    href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xc6BC67BE5459632D9C9957865aF90EAa31E2Df30&chain=mainnet",
+                    href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon&chain=mainnet",
                     text: "GET TOKEN",
                     className: l().className,
                   }),
