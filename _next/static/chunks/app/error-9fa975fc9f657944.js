@@ -136,7 +136,7 @@
                   (0, s.jsx)("div", {
                     className: "absolute bottom-[470px]",
                     children: (0, s.jsx)(w, {
-                      href: "/jumpgame/index.html",
+                      href: "https://game.theoryofgravity.fun/",
                       text: "PLAY NOW",
                       className: l().className,
                     }),
