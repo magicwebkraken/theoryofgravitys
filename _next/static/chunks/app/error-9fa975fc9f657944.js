@@ -106,7 +106,7 @@
                     className: "flex flex-col gap-2",
                     children: [
                       (0, s.jsx)(j, {
-                        href: "https://etherscan.io/token/0xcomingsoon",
+                        href: "https://etherscan.io/token/0x29F2F9F335DBAddB5DA4353fB1766A71651E0199",
                         text: "Token",
                         className: l().className,
                       }),
@@ -233,7 +233,7 @@
                     ],
                   }),
                   (0, s.jsx)(j, {
-                    href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon&chain=mainnet",
+                    href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x29F2F9F335DBAddB5DA4353fB1766A71651E0199&chain=mainnet",
                     text: "GET TOKEN",
                     className: l().className,
                   }),
